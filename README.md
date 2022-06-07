@@ -1,6 +1,6 @@
 # COVID-19 RISK ANALYSIS OF EUROPEAN COUNTRIES WITH CLUSTERING
 
-Istanbul Medeniyet University 3nd Year END311 Data Mining Final Project.
+Istanbul Medeniyet University 3rd Year END311 Data Mining Final Project.
 
 ## About This Project
 This project made by İrem Tekin, Elif Alptekin, Duygu Bulut, Sena Aydın and Emine Karaca.
