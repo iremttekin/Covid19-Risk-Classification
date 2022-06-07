@@ -19,14 +19,14 @@ Data showing the ratio of the vaccinated population to the total population in c
 ### Sum of Cases
 Data showing the total number of infected individuals in countries in the last quarter of 2021. The number of cases is one of the most important factors in determining the risk of COVID-19 in the country.
 
-### Goverment Response Index
-Nine different qualities were evaluated in the index calculated by the Oxford Coronavirus Government Response Tracker (OxCGRT), and according to these qualities, the strictness of the decisions made by the countries during the pandemic was measured with a value between 0-100. Attributes used for this index: school closure time, workplace closure time, cancellation of social events, restriction of gatherings, closure of public transport, stay at home, public information campaigns, restriction of intercity transportation, control of international travel. Since these decisions have changed in the last 3 months, the average of the values determined for each day in the last quarter of 2021 is taken in the report. While the excess of this data has a reducing effect on the risk of transmission of the disease, it may have negative social and economic consequences.
+### Government Response Index
+Nine different qualities were evaluated in the index calculated by the Oxford Coronavirus Government Response Tracker (OxCGRT), and according to these qualities, the strictness of the decisions made by the countries during the pandemic was measured with a value between 0-100. Attributes used for this index: school closure time, workplace closure time, cancellation of social events, restriction of gatherings, closure of public transport, stay at home, public information campaigns, restriction of intercity transportation and control of international travel. Since these decisions have changed in the last 3 months, the average of the values determined for each day in the last quarter of 2021 is taken in the report. While the excess of this data has a reducing effect on the risk of transmission of the disease, it may have negative social and economic consequences.
 
 ### Hospital Bed Capacity
 It refers to the number of beds per 1000 people in hospitals in the countries as of the last quarter of 2021. The number of beds, which is considered an important factor in terms of risk management, has come to the fore again with the COVID-19 outbreak.
 
 ### Face Mask Wearing Rate
-According to the research, one of the factors that reduce the rate of transmission of COVID-19 is related to the high rate of wearing masks in the community (WHO, 2020). For this factor that directly affects the risk situation, it refers to the rates of wearing masks in countries in the last quarter of 2021.
+According to the research, one of the factors that reduce the rate of transmission of COVID-19 is related to the high rate of wearing masks in the community (WHO, 2020). This factor directly affects the risk situation, it refers to the rates of wearing masks in countries in the last quarter of 2021.
 
 ### Health Worker Rate
 This factor is important in terms of the adequacy of the health system in the countries during the epidemic.
