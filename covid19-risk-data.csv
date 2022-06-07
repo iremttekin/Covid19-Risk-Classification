@@ -1,4 +1,4 @@
-countries,mortality_rate,testing_rate,vaccination_rate,sum_of_cases,goverment_response_index,hospital_bed_capacity,face_mask_wearing_rate,health_worker_rate,average_daily_cases
+countries,mortality_rate,testing_rate,vaccination_rate,sum_of_cases,government_response_index,hospital_bed_capacity,face_mask_wearing_rate,health_worker_rate,average_daily_cases
 Germany,2.2098,"195,583.67",70.19,7059396,55.6869,7.91,2,458,28133.87
 Andorra,1.2647,477.8721,65.35,22540,49.2786,,2.4815,,62.9625
 Albania,2.1549,,35.45,208352,45.8171,,2.2857,,502.1304
